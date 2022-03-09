@@ -1,0 +1,1 @@
+#!/bin/becho $((2#BINARY))
