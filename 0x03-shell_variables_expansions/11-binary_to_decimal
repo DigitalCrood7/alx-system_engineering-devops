@@ -1,1 +1,2 @@
-#!/bin/becho $((2#BINARY))
+#!/bin/becho 
+#$((2#BINARY))
